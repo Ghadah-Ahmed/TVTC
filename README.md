@@ -1,6 +1,8 @@
 # TVTC
 
-<img width="969" alt="Screen Shot 2021-08-19 at 12 01 34 PM" src="https://user-images.githubusercontent.com/75578380/130040778-a2fcabe3-77e0-4597-8fea-75248c643b18.png">
+<img width="1440" alt="Screen Shot 2021-08-19 at 1 22 34 PM" src="https://user-images.githubusercontent.com/75578380/130052886-42f62307-f9b9-4248-aa97-7ccd86938474.png">
+
+
 
 ## Project Description
 A system serveing more than **+20k emploeeys** under TVTC, allowing them to share and browse their coworkers news, among other functionalities. 
