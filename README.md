@@ -16,4 +16,4 @@ A system serveing more than **+20k emploeeys** under TVTC, allowing them to shar
 
 ## Contribution Certificate
 
-<img width="1138" alt="Screen Shot 2021-08-19 at 12 22 36 PM" src="https://user-images.githubusercontent.com/75578380/130044075-8d2e6baa-317f-44f6-89a8-e0d48abebcb6.png">
+<img width="538" alt="Screen Shot 2021-08-19 at 12 22 36 PM" src="https://user-images.githubusercontent.com/75578380/130044075-8d2e6baa-317f-44f6-89a8-e0d48abebcb6.png">
